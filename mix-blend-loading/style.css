@@ -37,4 +37,4 @@ div::before {
   50% {
     left: calc(100% - 100px);
   }
-}.
+}..
