@@ -11,6 +11,12 @@ div {
   top: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}div {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
 }
 div span {
   font-size: 65px;
@@ -113,6 +119,7 @@ nav.active .icon .line2 {
 /////////////////////////////////
 ///////////////////////////////
 ///////////////////////////////////////////////////
+
 
 
 
